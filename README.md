@@ -1,7 +1,7 @@
 ### 크몽외주 작업 공간입니다
 # https://kmong.com/@보문산보물상점
 
-## rocket
+## rocket.py
 
 # 메인 UI
 <img width="732" alt="image" src="https://github.com/user-attachments/assets/895ace8c-bd85-4d15-bde2-a3caf9419d7e" />
